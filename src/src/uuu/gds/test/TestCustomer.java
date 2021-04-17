@@ -14,7 +14,7 @@ public class TestCustomer{
 			customer = new Customer();
 			customer.id = new String("A123456789");
 			customer.password = "asdf1234";
-			customer.name = "狄會貴";
+			customer.name = "狄會貴1233213";
 			customer.gender = "M".charAt(0);
 			//Date d = new  GregorianCalendar(1999,7,5).getTime();
 			//System.out.println(d);
